@@ -1,0 +1,5 @@
+# Base16 Molokai for gtk2 (https://github.com/dawikur/base16-gtk2)
+# By Iterm2B24
+
+gtk-color-scheme = "bg_color:#121212\nfg_color:#a1a1a1\nbase_color:#121212\ntext_color:#a1a1a1\nselected_bg_color:#555555\nselected_fg_color:#a1a1a1\ntooltip_bg_color:#121212\ntooltip_fg_color:#888888\ntitlebar_bg_color:#121212\ntitlebar_fg_color:#0f7fcf\nmenubar_bg_color:#121212\nmenubar_fg_color:#0f7fcf\ntoolbar_bg_color:#121212\ntoolbar_fg_color:#00afff\nmenu_bg_color:#121212\nmenu_fg_color:#a1a1a1\npanel_bg_color:#121212\npanel_fg_color:#97e123\nlink_color:#dfd460"
+

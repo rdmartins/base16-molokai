@@ -1,0 +1,26 @@
+-- Name: Base16 Molokai
+-- Author: Iterm2B24
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 Molokai"
+
+Default = { Colour = "#a1a1a1" }
+Canvas = { Colour="#121212" }
+Number = { Colour="#dfd460" }
+Escape = { Colour="#bbbbbb" , Italic=true}
+String = { Colour="#97e123" }
+BlockComment = { Colour="#6e6e6e" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#a1a1a1" }
+LineNum      = { Colour="#6e6e6e" }
+PreProcessor      = { Colour="#7d1239" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#fa2573", Bold=true},
+  { Colour="#00afff"},
+  { Colour="#0f7fcf"},
+  { Colour="#00afff"},
+  { Colour="#00afff" }
+}

@@ -1,0 +1,31 @@
+; base16-molokai
+;
+; base16: (https://github.com/chriskempson/base16)
+;
+; Scheme: Iterm2B24
+; Template: Christian Karl <karlch at protonmail dot com>
+
+[STYLE]
+; Colors
+base00 = #121212
+base01 = #121212
+base02 = #555555
+base03 = #6e6e6e
+base04 = #888888
+base05 = #a1a1a1
+base06 = #bbbbbb
+base07 = #ffffff
+base08 = #fa2573
+base09 = #dfd460
+base0a = #00afff
+base0b = #97e123
+base0c = #42a7cf
+base0d = #0f7fcf
+base0e = #8700ff
+base0f = #7d1239
+
+; Additional custom overrides, e.g.
+; font = 10pt Hack
+; thumbnail.padding = 32
+
+; vim:ft=dosini

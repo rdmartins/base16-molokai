@@ -1,0 +1,37 @@
+# Base16 Molokai - alacritty color config
+# Iterm2B24
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x121212'
+foreground = '0xa1a1a1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x121212'
+cursor = '0xa1a1a1'
+
+# Normal colors
+[colors.normal]
+black = '0x121212'
+red = '0xfa2573'
+green = '0x97e123'
+yellow = '0x00afff'
+blue = '0x0f7fcf'
+magenta = '0x8700ff'
+cyan = '0x42a7cf'
+white = '0xa1a1a1'
+
+# Bright colors
+[colors.bright]
+black = '0x6e6e6e'
+red = '0xdfd460'
+green = '0x121212'
+yellow = '0x555555'
+blue = '0x888888'
+magenta = '0xbbbbbb'
+cyan = '0x7d1239'
+white = '0xffffff'

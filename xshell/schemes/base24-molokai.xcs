@@ -1,0 +1,23 @@
+[Base16 Molokai]
+text=a1a1a1
+text(bold)=a1a1a1
+background=121212
+black=121212
+black(bold)=6e6e6e
+red=fa2573
+red(bold)=dfd460
+green=97e123
+green(bold)=121212
+yellow=00afff
+yellow(bold)=555555
+blue=0f7fcf
+blue(bold)=888888
+magenta=8700ff
+magenta(bold)=bbbbbb
+cyan=42a7cf
+cyan(bold)=7d1239
+white=a1a1a1
+white(bold)=ffffff
+[Names]
+name0=Base16 Molokai
+count=1

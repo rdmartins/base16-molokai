@@ -1,0 +1,22 @@
+<!--    Base16 Molokai
+        Scheme author: Iterm2B24
+	Template author: Tinted Theming (https://github.com/tinted-theming)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="121212" />
+    <option name="treeSelectionColor" value="0f7fcf" />
+    <option name="highlightColor" value="555555" />
+    <option name="secondBorderColor" value="121212" />
+    <option name="tableSelectedColor" value="0f7fcf" />
+    <option name="contrastColor" value="121212" />
+    <option name="disabledColor" value="888888" />
+    <option name="secondaryBackgroundColor" value="121212" />
+    <option name="buttonColor" value="121212" />
+    <option name="selectionForegroundColor" value="bbbbbb" />
+    <option name="selectionBackgroundColor" value="0f7fcf" />
+    <option name="textColor" value="bbbbbb" />
+    <option name="foregroundColor" value="a1a1a1" />
+    <option name="backgroundColor" value="121212" />
+  </component>
+</application> 

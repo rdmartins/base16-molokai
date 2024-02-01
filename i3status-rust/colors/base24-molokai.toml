@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Molokai by Iterm2B24
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#121212"
+idle_fg = "#a1a1a1"
+info_bg = "#42a7cf"
+info_fg = "#121212"
+good_bg = "#97e123"
+good_fg = "#121212"
+warning_bg = "#00afff"
+warning_fg = "#121212"
+critical_bg = "#fa2573"
+critical_fg = "#121212"
+# The rest of the theme settings are left at default.

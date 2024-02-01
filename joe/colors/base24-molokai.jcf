@@ -1,0 +1,61 @@
+
+# base16 Molokai by Iterm2B24
+
+.colors *
+
+-text		$a1a1a1/$121212
+-status		$888888/$555555
+-cursor		$121212/$a1a1a1
+-selection	/$555555
+-curlin		/$121212
+-linum		$6e6e6e/$121212
+-curlinum	$888888/$121212
+-menusel	$121212/$888888
+
+-term 0 	$121212
+-term 1 	$0f7fcf
+-term 2 	$97e123
+-term 3 	$42a7cf
+-term 4 	$dfd460
+-term 5 	$8700ff
+-term 6 	$00afff
+-term 7 	$888888
+-term 8 	$6e6e6e
+-term 9 	$0f7fcf
+-term 10	$97e123
+-term 11	$42a7cf
+-term 12	$fa2573
+-term 13	$7d1239
+-term 14	$00afff
+-term 15	$ffffff
+
+=Constant	$dfd460
+=String		$97e123
+=Escape		$42a7cf
+
+=Comment	$6e6e6e
+=StorageClass	+Type
+=Keyword	$8700ff
+=Conditional	$8700ff
+=Operator	$a1a1a1
+=Loop		$00afff
+=Statement	$fa2573
+=Type		$00afff
+
+=DefinedIdent	$fa2573
+=Label		$00afff
+=DefinedType	$00afff
+=Structure	$8700ff
+
+=Preproc	$00afff
+=Include	$0f7fcf
+=Define		$8700ff
+=TODO		$00afff/$121212
+=Precond	$8700ff
+
+=diff.AddLine	$97e123/$121212
+=diff.ChgLine	$6e6e6e/$121212
+=diff.DelLine	$fa2573/$121212
+=diff.File	$fa2573
+=diff.FileNew	$97e123
+=diff.Hunk	$0f7fcf
